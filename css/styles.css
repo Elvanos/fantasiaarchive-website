@@ -39,6 +39,7 @@ a {
   margin: 0 auto;
   text-align: center;
   margin-top: 20px;
+  max-width: calc(100% - 40px);
 }
 
 #pitch p {
